@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Binary and object files
+*.out
+*.o
+*.obj
+*.exe
+a.out
+main
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.log
+
+# Build folders
+build/
+bin/
